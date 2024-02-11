@@ -1,5 +1,6 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface. 
+> The objective is to identify risky loan applicants and the factors that are likely going to lead to loan defaults.
 
 
 ## Table of Contents
@@ -11,38 +12,38 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- The work is to identify driving factors behind loan defaults
+- The largest online loan marketplace company wishes to reduce the number of loan defaults
+- The company needs to identify the causes for loan defaults with the aim of reducing those and reduce credit loss.
+- The data set for analysis is of the debtor details.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Loan verification process for all applicants have to be completed before loan approval and disbursements
+- Strengthen the verification process with special emphasis on Annual income, Applicant state and loan reason
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python - version 3.11
+- Numpy - version 1.26.4
+- Pandas - version 2.1.4
+- Matplotlib - version 3.8.2
+- Seaborn - version 0.13.2
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by Upgrad
+
+
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@abhijit673] - feel free to contact me!
 
 
 <!-- Optional -->
